@@ -25,9 +25,11 @@ Currently handling digital marketing for PT RKARI and leading AVA.Group.
 - *Coming soon* — Text-to-SQL Agent
 
 ### 📊 Data & Analytics
-- *Coming soon* — Jakarta Rental Dashboard
-- *Coming soon* — RKARI Sentiment Analysis
-- *Coming soon* — Website Traffic Forecaster
+- [Jakarta Rental Dashboard](https://github.com/qurrrrsebastian-prog/jakarta-rental-dashboard) — Streamlit app for apartment price analysis
+- [RKARI Sentiment Analysis](https://github.com/qurrrrsebastian-prog/rkari-review-sentiment) — NLP analysis of 100+ customer reviews
+- [Website Traffic Forecaster](https://github.com/qurrrrsebastian-prog/website-traffic-forecast) — Prophet-based traffic prediction
+- [Competitor Price Scraper](https://github.com/qurrrrsebastian-prog/rope-access-competitor-scraper) — Web scraping competitor pricing
+- [Job Market Analysis](https://github.com/qurrrrsebastian-prog/indonesia-data-jobs-analysis) — Data Analyst job market in Indonesia
 
 ### 🌐 Web Apps & Tools
 - *Coming soon* — Google Ads ROI Calculator
