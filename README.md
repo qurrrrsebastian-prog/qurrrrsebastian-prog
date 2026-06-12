@@ -33,8 +33,12 @@ Currently handling digital marketing for PT RKARI and leading AVA.Group.
 
 ### 🌐 Web Apps & Tools
 - [Google Ads ROI Calculator](https://github.com/qurrrrsebastian-prog/google-ads-roi-calculator) — Streamlit app for ROI calculation & scaling roadmap
-- *Coming soon* — Ad Copy Generator
-- *Coming soon* — Personal Finance Tracker
+- [Ad Copy Generator](https://github.com/qurrrrsebastian-prog/ad-copy-generator) — AIDA framework copy generator for B2B Indonesia
+- [Personal Finance Tracker](https://github.com/qurrrrsebastian-prog/personal-finance-tracker) — Flask + SQLite full-stack expense tracker
+- [Jakarta Water Quality EDA](https://github.com/qurrrrsebastian-prog/jakarta-water-quality-analysis) — Jupyter notebook EDA for Smart Water competition
+- [B2B Customer Segmentation](https://github.com/qurrrrsebastian-prog/b2b-customer-segmentation) — K-Means clustering with Streamlit + Plotly
+
+---
 
 ---
 
