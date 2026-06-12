@@ -32,7 +32,7 @@ Currently handling digital marketing for PT RKARI and leading AVA.Group.
 - [Job Market Analysis](https://github.com/qurrrrsebastian-prog/indonesia-data-jobs-analysis) — Data Analyst job market in Indonesia
 
 ### 🌐 Web Apps & Tools
-- *Coming soon* — Google Ads ROI Calculator
+- [Google Ads ROI Calculator](https://github.com/qurrrrsebastian-prog/google-ads-roi-calculator) — Streamlit app for ROI calculation & scaling roadmap
 - *Coming soon* — Ad Copy Generator
 - *Coming soon* — Personal Finance Tracker
 
