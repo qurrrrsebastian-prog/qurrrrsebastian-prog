@@ -1,8 +1,10 @@
 # Hi, I'm Avatar Putra Sigit 👋
 
-**Frontend Developer & AI Agent Builder | Digital Marketing Strategist | Founder @AVA.Group**
+**Data Analyst & Python Developer | Digital Marketing Strategist | Founder @AVA.Group**
 
-18 y/o Sistem Informasi student @ Universitas Budi Luhur. Building 20 production-grade projects in 30 days — data analytics, AI/ML, and agentic systems. All open-source.
+18 y/o | Semester 2 Sistem Informasi @ Universitas Budi Luhur.  
+Completed **10+ production-grade projects** in data analytics, ML, and full-stack web apps — all open-source.  
+Currently on a **20-project sprint**: Phase 1 & 2 done ✅ | Phase 3 & 4 in progress 🔥
 
 Currently handling digital marketing for PT RKARI and leading AVA.Group.
 
@@ -10,42 +12,40 @@ Currently handling digital marketing for PT RKARI and leading AVA.Group.
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, HTML/CSS, SQL  
-**Frameworks:** React, Streamlit, Flask, FastAPI, LangChain, CrewAI  
-**Data & AI:** Pandas, Scikit-learn, Prophet, ChromaDB, OpenAI API  
-**Tools:** Git, Docker, Google Ads, Hostinger, Claude Code  
+**Languages:** Python, JavaScript, HTML/CSS, SQL
+
+**Frameworks & Libraries:** Streamlit, Flask, Pandas, NumPy, Scikit-learn, Prophet, Plotly, Matplotlib, Seaborn
+
+**Web & Data:** Jinja2, SQLite, BeautifulSoup, Requests, NLTK, WordCloud, TextBlob
+
+**Tools:** Git, Jupyter Notebook, Google Ads, Claude Code
 
 ---
 
-## 🚀 30-Day Project Sprint
+## 🚀 Portfolio Sprint (10/20 Projects)
 
-### 🤖 Agentic AI
-- *Coming soon* — RAG Document Q&A
-- *Coming soon* — Multi-Agent Research System
-- *Coming soon* — Text-to-SQL Agent
-
-### 📊 Data & Analytics
-- [Jakarta Rental Dashboard](https://github.com/qurrrrsebastian-prog/jakarta-rental-dashboard) — Streamlit app for apartment price analysis
+### 📊 Phase 1: Data & Analytics — COMPLETE ✅
+- [Jakarta Rental Dashboard](https://github.com/qurrrrsebastian-prog/jakarta-rental-dashboard) — Streamlit app for apartment price analysis (800 listings)
 - [RKARI Sentiment Analysis](https://github.com/qurrrrsebastian-prog/rkari-review-sentiment) — NLP analysis of 100+ customer reviews
-- [Website Traffic Forecaster](https://github.com/qurrrrsebastian-prog/website-traffic-forecast) — Prophet-based traffic prediction
-- [Competitor Price Scraper](https://github.com/qurrrrsebastian-prog/rope-access-competitor-scraper) — Web scraping competitor pricing
-- [Job Market Analysis](https://github.com/qurrrrsebastian-prog/indonesia-data-jobs-analysis) — Data Analyst job market in Indonesia
+- [Website Traffic Forecaster](https://github.com/qurrrrsebastian-prog/website-traffic-forecast) — Prophet-based traffic prediction (90 days)
+- [Competitor Price Scraper](https://github.com/qurrrrsebastian-prog/rope-access-competitor-scraper) — Web scraping competitor pricing (5 companies)
+- [Job Market Analysis](https://github.com/qurrrrsebastian-prog/indonesia-data-jobs-analysis) — Data Analyst job market in Indonesia (120+ postings)
 
-### 🌐 Web Apps & Tools
+### 🌐 Phase 2: Web Apps & Tools — COMPLETE ✅
 - [Google Ads ROI Calculator](https://github.com/qurrrrsebastian-prog/google-ads-roi-calculator) — Streamlit app for ROI calculation & scaling roadmap
 - [Ad Copy Generator](https://github.com/qurrrrsebastian-prog/ad-copy-generator) — AIDA framework copy generator for B2B Indonesia
 - [Personal Finance Tracker](https://github.com/qurrrrsebastian-prog/personal-finance-tracker) — Flask + SQLite full-stack expense tracker
-- [Jakarta Water Quality EDA](https://github.com/qurrrrsebastian-prog/jakarta-water-quality-analysis) — Jupyter notebook EDA for Smart Water competition
-- [B2B Customer Segmentation](https://github.com/qurrrrsebastian-prog/b2b-customer-segmentation) — K-Means clustering with Streamlit + Plotly
-
----
+- [Jakarta Water Quality EDA](https://github.com/qurrrrsebastian-prog/jakarta-water-quality-analysis) — Jupyter notebook EDA for Smart Water competition (500 records)
+- [B2B Customer Segmentation](https://github.com/qurrrrsebastian-prog/b2b-customer-segmentation) — K-Means clustering with Streamlit + Plotly (200 clients)
 
 ---
 
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/avatarputrasigit)
-- 🌐 AVA.Group (Website coming soon — rebuilding on GitHub Pages)
-- 📧 [Email](mailto:putraavaar@gmail.com)
+- 🌐 AVA.Group *(Website temporarily offline — rebuilding)*
+- 📧 [putraavaar@gmail.com](mailto:putraavaar@gmail.com)
+
+---
 
 *"Jangan tunggu lulus untuk mulai. Bangun sambil belajar."*
