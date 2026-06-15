@@ -1,11 +1,7 @@
-&lt;div align="center"&gt;
-
 # Hi 👋, I'm Avatar Putra Sigit
 ### Data Analyst & Python Developer | AI/ML Engineer | Digital Marketing Strategist | Founder @AVA.Group
 
-&lt;img src="https://komarev.com/ghpvc/?username=qurrrrsebastian-prog&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /&gt;
-
-&lt;/div&gt;
+![Profile views](https://komarev.com/ghpvc/?username=qurrrrsebastian-prog&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
@@ -85,14 +81,12 @@
 
 ---
 
-&lt;div align="center"&gt;
-
 ### 📈 GitHub Stats
 
-&lt;img src="https://github-readme-stats.vercel.app/api?username=qurrrrsebastian-prog&show_icons=true&theme=tokyonight&hide_border=true" height="165" /&gt;
-&lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=qurrrrsebastian-prog&theme=tokyonight&hide_border=true" height="165" /&gt;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qurrrrsebastian-prog&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qurrrrsebastian-prog&theme=tokyonight&hide_border=true)
 
-&lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qurrrrsebastian-prog&layout=compact&theme=tokyonight&hide_border=true" /&gt;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qurrrrsebastian-prog&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -106,5 +100,3 @@
 
 *"Jangan tunggu lulus untuk mulai. Bangun sambil belajar."*  
 *"Don't wait until graduation to start. Build while you learn."*
-
-&lt;/div&gt;
