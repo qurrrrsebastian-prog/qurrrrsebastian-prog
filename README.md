@@ -1,60 +1,108 @@
-# Hi, I'm Avatar Putra Sigit 👋
+&lt;h1 align="center"&gt;Hi 👋, I'm Avatar Putra Sigit&lt;/h1&gt;
+&lt;h3 align="center"&gt;Data Analyst & Python Developer | AI/ML Engineer | Digital Marketing Strategist | Founder @AVA.Group&lt;/h3&gt;
 
-**Data Analyst & Python Developer | AI/ML Engineer | Digital Marketing Strategist | Founder @AVA.Group**
-
-18 y/o | Semester 2 Sistem Informasi @ Universitas Budi Luhur.  
-Completed **15+ production-grade projects** in data analytics, AI/ML, and full-stack web apps — all open-source.  
-Currently on a **20-project sprint**: Phase 1, 2 & 3 done ✅ | Phase 4 in progress 🔥
-
-Currently handling digital marketing for PT RKARI and leading AVA.Group.
+&lt;p align="center"&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=qurrrrsebastian-prog&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /&gt;
+&lt;/p&gt;
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 About Me
 
-**Languages:** Python, JavaScript, HTML/CSS, SQL
-
-**Frameworks & Libraries:** Streamlit, Flask, Pandas, NumPy, Scikit-learn, Prophet, Plotly, Matplotlib, Seaborn
-
-**AI/ML:** LangChain, Groq API, FastEmbed, ChromaDB, Llama 3.3 70B
-
-**Web & Data:** Jinja2, SQLite, BeautifulSoup, Requests, NLTK, WordCloud, TextBlob
-
-**Tools:** Git, Jupyter Notebook, Google Ads, Claude Code
+- 🎓 **18 y/o** | Semester 2 Sistem Informasi @ Universitas Budi Luhur
+- 💼 Currently handling digital marketing for **PT RKARI** and leading **AVA.Group**
+- 🏆 Completed **19 production-grade projects** in data analytics, AI/ML, and full-stack web apps — all open-source
+- 🔄 Currently on a **20-project sprint**: 19/20 done ✅ | Final polish in progress 🔥
+- 🌱 Currently learning: **Laravel, System Design, Cloud Deployment**
 
 ---
 
-## 🚀 Portfolio Sprint (15/20 Projects)
+### 🛠️ Tech Stack
 
-### 📊 Phase 1: Data & Analytics — COMPLETE ✅
-- [Jakarta Rental Dashboard](https://github.com/qurrrrsebastian-prog/jakarta-rental-dashboard) — Streamlit app for apartment price analysis (800 listings)
-- [RKARI Sentiment Analysis](https://github.com/qurrrrsebastian-prog/rkari-review-sentiment) — NLP analysis of 100+ customer reviews
-- [Website Traffic Forecaster](https://github.com/qurrrrsebastian-prog/website-traffic-forecast) — Prophet-based traffic prediction (90 days)
-- [Competitor Price Scraper](https://github.com/qurrrrsebastian-prog/rope-access-competitor-scraper) — Web scraping competitor pricing (5 companies)
-- [Job Market Analysis](https://github.com/qurrrrsebastian-prog/indonesia-data-jobs-analysis) — Data Analyst job market in Indonesia (120+ postings)
+**Languages & Core:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🌐 Phase 2: Web Apps & Tools — COMPLETE ✅
-- [Google Ads ROI Calculator](https://github.com/qurrrrsebastian-prog/google-ads-roi-calculator) — Streamlit app for ROI calculation & scaling roadmap
-- [Ad Copy Generator](https://github.com/qurrrrsebastian-prog/ad-copy-generator) — AIDA framework copy generator for B2B Indonesia
-- [Personal Finance Tracker](https://github.com/qurrrrsebastian-prog/personal-finance-tracker) — Flask + SQLite full-stack expense tracker
-- [Jakarta Water Quality EDA](https://github.com/qurrrrsebastian-prog/jakarta-water-quality-analysis) — Jupyter notebook EDA for Smart Water competition (500 records)
-- [B2B Customer Segmentation](https://github.com/qurrrrsebastian-prog/b2b-customer-segmentation) — K-Means clustering with Streamlit + Plotly (200 clients)
+**Frameworks & Libraries:**  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🤖 Phase 3: AI/ML Production — COMPLETE ✅
-- [RAG Document Q&A](https://github.com/qurrrrsebastian-prog/rag-document-qa) — LangChain + ChromaDB + Groq LLM for enterprise SOP search with source attribution
-- [Text-to-SQL Agent](https://github.com/qurrrrsebastian-prog/text-to-sql-agent) — Natural language to SQLite query converter for non-technical users
-- [YouTube Summarizer](https://github.com/qurrrrsebastian-prog/youtube-summarizer) — AI video transcript summary with key insights & actionable takeaways
-- [Lead Qualification Bot](https://github.com/qurrrrsebastian-prog/lead-qualification-bot) — AI scoring HOT/WARM/COLD + auto-generate follow-up email draft
-- [Multi-Agent Research System](https://github.com/qurrrrsebastian-prog/multi-agent-research) — 3-agent pipeline: Researcher → Writer → Editor with Groq API
+**AI / ML:**  
+`LangChain` • `Groq API` • `FastEmbed` • `ChromaDB` • `Llama 3.3 70B` • `Prophet` • `NLTK` • `TextBlob`
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+`Google Ads` • `Claude Code` • `BeautifulSoup` • `SQLite`
 
 ---
 
-## 📫 Connect With Me
+### 📊 Portfolio Sprint (19/20 Projects)
 
-- 💼 [LinkedIn](https://linkedin.com/in/avatarputrasigit)
+#### 📈 Phase 1: Data & Analytics — BINTANG 5 ⭐ (LIVE DEMOS)
+| # | Project | Live Demo | Description |
+|---|---------|-----------|-------------|
+| 1 | [Jakarta Rental Dashboard](https://github.com/qurrrrsebastian-prog/jakarta-rental-dashboard) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jakarta-rental-dashboard-qurrrrsebastian-prog.streamlit.app) | Interactive apartment search with map, filters, 100+ listings |
+| 2 | [Indonesia Data Jobs Analysis](https://github.com/qurrrrsebastian-prog/indonesia-data-jobs-analysis) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://indonesia-data-jobs-analysis-u8ouvgfqq24yy2kknw5pbe.streamlit.app) | Job market dashboard with skill demand, salary trends, 120+ postings |
+| 3 | [RKARI Sentiment Analysis](https://github.com/qurrrrsebastian-prog/rkari-review-sentiment) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rkari-review-sentiment-qurrrrsebastian-prog.streamlit.app) | NLP sentiment + WordCloud for property service reviews |
+| 4 | [Website Traffic Forecaster](https://github.com/qurrrrsebastian-prog/website-traffic-forecast) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://website-traffic-forecast-qurrrrsebastian-prog.streamlit.app) | Prophet-based 90-day traffic prediction with confidence intervals |
+| 5 | [Competitor Price Tracker](https://github.com/qurrrrsebastian-prog/rope-access-competitor-scraper) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rope-access-competitor-scraper-qurrrrsebastian-prog.streamlit.app) | 50 competitor price monitoring with colored cards & security |
+
+#### 🌐 Phase 2: Web Apps & Tools — Under Revision 🛠️
+| # | Project | Status | Description |
+|---|---------|--------|-------------|
+| 6 | [Google Ads ROI Calculator](https://github.com/qurrrrsebastian-prog/google-ads-roi-calculator) | 🔧 Revising | Streamlit app for ROI calculation & scaling roadmap |
+| 7 | [Ad Copy Generator](https://github.com/qurrrrsebastian-prog/ad-copy-generator) | 🔧 Revising | AIDA framework copy generator for B2B Indonesia |
+| 8 | [Personal Finance Tracker](https://github.com/qurrrrsebastian-prog/personal-finance-tracker) | 🔧 Revising | Flask + SQLite full-stack expense tracker |
+| 9 | [Jakarta Water Quality EDA](https://github.com/qurrrrsebastian-prog/jakarta-water-quality-analysis) | 🔧 Revising | Jupyter notebook EDA for Smart Water competition |
+| 10 | [B2B Customer Segmentation](https://github.com/qurrrrsebastian-prog/b2b-customer-segmentation) | 🔧 Revising | K-Means clustering with Streamlit + Plotly |
+
+#### 🤖 Phase 3: AI/ML Production — Under Revision 🛠️
+| # | Project | Status | Description |
+|---|---------|--------|-------------|
+| 11 | [RAG Document Q&A](https://github.com/qurrrrsebastian-prog/rag-document-qa) | 🔧 Revising | LangChain + ChromaDB + Groq LLM for enterprise SOP search |
+| 12 | [Text-to-SQL Agent](https://github.com/qurrrrsebastian-prog/text-to-sql-agent) | 🔧 Revising | Natural language to SQLite query converter |
+| 13 | [YouTube Summarizer](https://github.com/qurrrrsebastian-prog/youtube-summarizer) | 🔧 Revising | AI video transcript summary with key insights |
+| 14 | [Lead Qualification Bot](https://github.com/qurrrrsebastian-prog/lead-qualification-bot) | 🔧 Revising | AI scoring HOT/WARM/COLD + auto email draft |
+| 15 | [Multi-Agent Research System](https://github.com/qurrrrsebastian-prog/multi-agent-research) | 🔧 Revising | 3-agent pipeline: Researcher → Writer → Editor |
+
+#### 🔮 Phase 4: Agentic AI & Full-Stack — Under Revision 🛠️
+| # | Project | Status | Description |
+|---|---------|--------|-------------|
+| 16 | [Autonomous Job Research](https://github.com/qurrrrsebastian-prog/autonomous-web-research) | 🔧 Revising | AI agent searches jobs across LinkedIn, JobStreet, Kalibrr, Glints |
+| 17 | [AI Email Auto-Responder](https://github.com/qurrrrsebastian-prog/ai-email-auto-responder) | 🔧 Revising | AI reads email → analyzes intent → drafts Indonesian reply |
+| 18 | [Smart Water IoT Dashboard](https://github.com/qurrrrsebastian-prog/smart-water-iot-dashboard) | 🔧 Revising | Real-time Jakarta water monitoring with anomaly detection |
+| 19 | [Enterprise RAG with RBAC](https://github.com/qurrrrsebastian-prog/enterprise-rag-rbac) | 🔧 Revising | Role-based AI document search (Admin/Staff/Intern) |
+| 20 | *AVA.Group Portfolio Website* | ⏳ Coming Soon | React + GitHub Pages |
+
+---
+
+### 📈 GitHub Stats
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=qurrrrsebastian-prog&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" /&gt;
+  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=qurrrrsebastian-prog&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" /&gt;
+&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qurrrrsebastian-prog&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /&gt;
+&lt;/p&gt;
+
+---
+
+### 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/avatar-putra-sigit)
 - 🌐 AVA.Group *(Website temporarily offline — rebuilding)*
-- 📧 [putraavaar@gmail.com](mailto:putraavaar@gmail.com)
+- 📧 putraavaar@gmail.com
 
 ---
 
-*"Jangan tunggu lulus untuk mulai. Bangun sambil belajar."*
+&lt;p align="center"&gt;&lt;i&gt;"Jangan tunggu lulus untuk mulai. Bangun sambil belajar."&lt;/i&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;i&gt;"Don't wait until graduation to start. Build while you learn."&lt;/i&gt;&lt;/p&gt;
