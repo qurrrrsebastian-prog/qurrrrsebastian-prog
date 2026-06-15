@@ -1,9 +1,11 @@
-&lt;h1 align="center"&gt;Hi 👋, I'm Avatar Putra Sigit&lt;/h1&gt;
-&lt;h3 align="center"&gt;Data Analyst & Python Developer | AI/ML Engineer | Digital Marketing Strategist | Founder @AVA.Group&lt;/h3&gt;
+&lt;div align="center"&gt;
 
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=qurrrrsebastian-prog&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /&gt;
-&lt;/p&gt;
+# Hi 👋, I'm Avatar Putra Sigit
+### Data Analyst & Python Developer | AI/ML Engineer | Digital Marketing Strategist | Founder @AVA.Group
+
+&lt;img src="https://komarev.com/ghpvc/?username=qurrrrsebastian-prog&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /&gt;
+
+&lt;/div&gt;
 
 ---
 
@@ -48,11 +50,11 @@
 #### 📈 Phase 1: Data & Analytics — BINTANG 5 ⭐ (LIVE DEMOS)
 | # | Project | Live Demo | Description |
 |---|---------|-----------|-------------|
-| 1 | [Jakarta Rental Dashboard](https://github.com/qurrrrsebastian-prog/jakarta-rental-dashboard) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jakarta-rental-dashboard-qurrrrsebastian-prog.streamlit.app) | Interactive apartment search with map, filters, 100+ listings |
+| 1 | [Jakarta Rental Dashboard](https://github.com/qurrrrsebastian-prog/jakarta-rental-dashboard) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jakarta-rental-dashboard-nvcburdxplphnnton9jb5d.streamlit.app) | Interactive apartment search with map, filters, 100+ listings |
 | 2 | [Indonesia Data Jobs Analysis](https://github.com/qurrrrsebastian-prog/indonesia-data-jobs-analysis) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://indonesia-data-jobs-analysis-u8ouvgfqq24yy2kknw5pbe.streamlit.app) | Job market dashboard with skill demand, salary trends, 120+ postings |
-| 3 | [RKARI Sentiment Analysis](https://github.com/qurrrrsebastian-prog/rkari-review-sentiment) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rkari-review-sentiment-qurrrrsebastian-prog.streamlit.app) | NLP sentiment + WordCloud for property service reviews |
-| 4 | [Website Traffic Forecaster](https://github.com/qurrrrsebastian-prog/website-traffic-forecast) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://website-traffic-forecast-qurrrrsebastian-prog.streamlit.app) | Prophet-based 90-day traffic prediction with confidence intervals |
-| 5 | [Competitor Price Tracker](https://github.com/qurrrrsebastian-prog/rope-access-competitor-scraper) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rope-access-competitor-scraper-qurrrrsebastian-prog.streamlit.app) | 50 competitor price monitoring with colored cards & security |
+| 3 | [RKARI Sentiment Analysis](https://github.com/qurrrrsebastian-prog/rkari-review-sentiment) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rkari-review-sentiment-kyecuudet7xh6quwfeorqq.streamlit.app) | NLP sentiment + WordCloud for property service reviews |
+| 4 | [Website Traffic Forecaster](https://github.com/qurrrrsebastian-prog/website-traffic-forecast) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://website-traffic-forecast-s9xhbq8gv8uzwlst8uy6u7.streamlit.app) | Prophet-based 90-day traffic prediction with confidence intervals |
+| 5 | [Competitor Price Tracker](https://github.com/qurrrrsebastian-prog/rope-access-competitor-scraper) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rope-access-competitor-scraper-epqfhiddaohcrdol7eyndd.streamlit.app) | 50 competitor price monitoring with colored cards & security |
 
 #### 🌐 Phase 2: Web Apps & Tools — Under Revision 🛠️
 | # | Project | Status | Description |
@@ -83,16 +85,14 @@
 
 ---
 
+&lt;div align="center"&gt;
+
 ### 📈 GitHub Stats
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=qurrrrsebastian-prog&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" /&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=qurrrrsebastian-prog&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" /&gt;
-&lt;/p&gt;
+&lt;img src="https://github-readme-stats.vercel.app/api?username=qurrrrsebastian-prog&show_icons=true&theme=tokyonight&hide_border=true" height="165" /&gt;
+&lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=qurrrrsebastian-prog&theme=tokyonight&hide_border=true" height="165" /&gt;
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qurrrrsebastian-prog&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /&gt;
-&lt;/p&gt;
+&lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qurrrrsebastian-prog&layout=compact&theme=tokyonight&hide_border=true" /&gt;
 
 ---
 
@@ -104,5 +104,7 @@
 
 ---
 
-&lt;p align="center"&gt;&lt;i&gt;"Jangan tunggu lulus untuk mulai. Bangun sambil belajar."&lt;/i&gt;&lt;/p&gt;
-&lt;p align="center"&gt;&lt;i&gt;"Don't wait until graduation to start. Build while you learn."&lt;/i&gt;&lt;/p&gt;
+*"Jangan tunggu lulus untuk mulai. Bangun sambil belajar."*  
+*"Don't wait until graduation to start. Build while you learn."*
+
+&lt;/div&gt;
