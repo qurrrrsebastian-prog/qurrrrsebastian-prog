@@ -52,14 +52,14 @@
 | 4 | [Website Traffic Forecaster](https://github.com/qurrrrsebastian-prog/website-traffic-forecast) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://website-traffic-forecast-s9xhbq8gv8uzwlst8uy6u7.streamlit.app) | Prophet-based 90-day traffic prediction with confidence intervals |
 | 5 | [Competitor Price Tracker](https://github.com/qurrrrsebastian-prog/rope-access-competitor-scraper) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rope-access-competitor-scraper-epqfhiddaohcrdol7eyndd.streamlit.app) | 50 competitor price monitoring with colored cards & security |
 
-#### 🌐 Phase 2: Web Apps & Tools — Under Revision 🛠️
-| # | Project | Status | Description |
-|---|---------|--------|-------------|
-| 6 | [Google Ads ROI Calculator](https://github.com/qurrrrsebastian-prog/google-ads-roi-calculator) | 🔧 Revising | Streamlit app for ROI calculation & scaling roadmap |
-| 7 | [Ad Copy Generator](https://github.com/qurrrrsebastian-prog/ad-copy-generator) | 🔧 Revising | AIDA framework copy generator for B2B Indonesia |
-| 8 | [Personal Finance Tracker](https://github.com/qurrrrsebastian-prog/personal-finance-tracker) | 🔧 Revising | Flask + SQLite full-stack expense tracker |
-| 9 | [Jakarta Water Quality EDA](https://github.com/qurrrrsebastian-prog/jakarta-water-quality-analysis) | 🔧 Revising | Jupyter notebook EDA for Smart Water competition |
-| 10 | [B2B Customer Segmentation](https://github.com/qurrrrsebastian-prog/b2b-customer-segmentation) | 🔧 Revising | K-Means clustering with Streamlit + Plotly |
+#### 🌐 Phase 2: Web Apps & Tools — BINTANG 5 ⭐ (LIVE DEMOS)
+| # | Project | Live Demo | Description |
+|---|---------|-----------|-------------|
+| 6 | [Google Ads ROI Calculator](https://github.com/qurrrrsebastian-prog/google-ads-roi-calculator) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-ads-roi-calculator-kxgcphzjq3wmbwzgebvfpe.streamlit.app) | Emerald Fortune theme — campaign ROI analysis with 50 dummy campaigns |
+| 7 | [Ad Copy Generator](https://github.com/qurrrrsebastian-prog/ad-copy-generator) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ad-copy-generator-oewynqbctfnut9qg7kf5zg.streamlit.app) | Royal Purple theme — AIDA/PAS/4U framework with copy-to-clipboard |
+| 8 | [Personal Finance Tracker](https://github.com/qurrrrsebastian-prog/personal-finance-tracker) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://personal-finance-tracker-v8xtatfmuhdj67nua5evyh.streamlit.app) | Sage Mint theme — Rupiah tracking with calendar heatmap |
+| 9 | [Jakarta Water Quality](https://github.com/qurrrrsebastian-prog/jakarta-water-quality-analysis) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jakarta-water-quality-analysis-fhmprh3v3yfa5agtuwvzr8.streamlit.app) | Aqua Marine theme — 500 stations monitoring with folium map + anomaly detection |
+| 10 | [B2B Customer Segmentation](https://github.com/qurrrrsebastian-prog/b2b-customer-segmentation) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://b2b-customer-segmentation-fy42ma25sjq9hwcmvrwsh8.streamlit.app) | Slate Corporate theme — K-Means clustering with 4 segment downloads |
 
 #### 🤖 Phase 3: AI/ML Production — Under Revision 🛠️
 | # | Project | Status | Description |
