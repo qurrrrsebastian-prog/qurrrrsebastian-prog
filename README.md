@@ -10,7 +10,7 @@
 - 🎓 **18 y/o** | Semester 2 Sistem Informasi @ Universitas Budi Luhur
 - 💼 Currently handling digital marketing for **PT RKARI** and leading **AVA.Group**
 - 🏆 Completed **19 production-grade projects** in data analytics, AI/ML, and full-stack web apps — all open-source
-- 🔄 Currently on a **20-project sprint**: 19/20 done ✅ | Final polish in progress 🔥
+- 🔄 Currently on a **20-project sprint**: 19/20 done ✅ | Deploying live demos 🚀
 - 🌱 Currently learning: **Laravel, System Design, Cloud Deployment**
 
 ---
@@ -32,7 +32,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **AI / ML:**  
-`LangChain` • `Groq API` • `FastEmbed` • `ChromaDB` • `Llama 3.3 70B` • `Prophet` • `NLTK` • `TextBlob`
+`LangChain` • `Google Gemini API` • `ChromaDB` • `Llama 3.3 70B` • `Prophet` • `NLTK` • `TextBlob`
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -61,23 +61,23 @@
 | 9 | [Jakarta Water Quality](https://github.com/qurrrrsebastian-prog/jakarta-water-quality-analysis) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jakarta-water-quality-analysis-fhmprh3v3yfa5agtuwvzr8.streamlit.app) | Aqua Marine theme — 500 stations monitoring with folium map + anomaly detection |
 | 10 | [B2B Customer Segmentation](https://github.com/qurrrrsebastian-prog/b2b-customer-segmentation) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://b2b-customer-segmentation-fy42ma25sjq9hwcmvrwsh8.streamlit.app) | Slate Corporate theme — K-Means clustering with 4 segment downloads |
 
-#### 🤖 Phase 3: AI/ML Production — Under Revision 🛠️
-| # | Project | Status | Description |
+#### 🤖 Phase 3: AI/ML Production — ✅ DEPLOY READY
+| # | Project | Deploy | Description |
 |---|---------|--------|-------------|
-| 11 | [RAG Document Q&A](https://github.com/qurrrrsebastian-prog/rag-document-qa) | 🔧 Revising | LangChain + ChromaDB + Groq LLM for enterprise SOP search |
-| 12 | [Text-to-SQL Agent](https://github.com/qurrrrsebastian-prog/text-to-sql-agent) | 🔧 Revising | Natural language to SQLite query converter |
-| 13 | [YouTube Summarizer](https://github.com/qurrrrsebastian-prog/youtube-summarizer) | 🔧 Revising | AI video transcript summary with key insights |
-| 14 | [Lead Qualification Bot](https://github.com/qurrrrsebastian-prog/lead-qualification-bot) | 🔧 Revising | AI scoring HOT/WARM/COLD + auto email draft |
-| 15 | [Multi-Agent Research System](https://github.com/qurrrrsebastian-prog/multi-agent-research) | 🔧 Revising | 3-agent pipeline: Researcher → Writer → Editor |
+| 11 | [RAG Document Q&A](https://github.com/qurrrrsebastian-prog/rag-document-qa) | [🚀 Deploy](https://share.streamlit.io/deploy?repository=qurrrrsebastian-prog/rag-document-qa) | LangChain + ChromaDB + Gemini API for enterprise SOP search |
+| 12 | [Text-to-SQL Agent](https://github.com/qurrrrsebastian-prog/text-to-sql-agent) | [🚀 Deploy](https://share.streamlit.io/deploy?repository=qurrrrsebastian-prog/text-to-sql-agent) | Natural language to SQLite query converter |
+| 13 | [YouTube Summarizer](https://github.com/qurrrrsebastian-prog/youtube-summarizer) | [🚀 Deploy](https://share.streamlit.io/deploy?repository=qurrrrsebastian-prog/youtube-summarizer) | AI video transcript summary with key insights |
+| 14 | [Lead Qualification Bot](https://github.com/qurrrrsebastian-prog/lead-qualification-bot) | [🚀 Deploy](https://share.streamlit.io/deploy?repository=qurrrrsebastian-prog/lead-qualification-bot) | AI scoring HOT/WARM/COLD + auto email draft |
+| 15 | [Multi-Agent Research System](https://github.com/qurrrrsebastian-prog/multi-agent-research) | [🚀 Deploy](https://share.streamlit.io/deploy?repository=qurrrrsebastian-prog/multi-agent-research) | 3-agent pipeline: Researcher → Writer → Editor |
 
-#### 🔮 Phase 4: Agentic AI & Full-Stack — Under Revision 🛠️
-| # | Project | Status | Description |
+#### 🔮 Phase 4: Agentic AI & Full-Stack — ✅ DEPLOY READY
+| # | Project | Deploy | Description |
 |---|---------|--------|-------------|
-| 16 | [Autonomous Job Research](https://github.com/qurrrrsebastian-prog/autonomous-web-research) | 🔧 Revising | AI agent searches jobs across LinkedIn, JobStreet, Kalibrr, Glints |
-| 17 | [AI Email Auto-Responder](https://github.com/qurrrrsebastian-prog/ai-email-auto-responder) | 🔧 Revising | AI reads email → analyzes intent → drafts Indonesian reply |
-| 18 | [Smart Water IoT Dashboard](https://github.com/qurrrrsebastian-prog/smart-water-iot-dashboard) | 🔧 Revising | Real-time Jakarta water monitoring with anomaly detection |
-| 19 | [Enterprise RAG with RBAC](https://github.com/qurrrrsebastian-prog/enterprise-rag-rbac) | 🔧 Revising | Role-based AI document search (Admin/Staff/Intern) |
-| 20 | *AVA.Group Portfolio Website* | ⏳ Coming Soon | React + GitHub Pages |
+| 16 | [Autonomous Job Research](https://github.com/qurrrrsebastian-prog/autonomous-web-research) | [🚀 Deploy](https://share.streamlit.io/deploy?repository=qurrrrsebastian-prog/autonomous-web-research) | AI agent searches jobs across LinkedIn, JobStreet, Kalibrr, Glints |
+| 17 | [AI Email Auto-Responder](https://github.com/qurrrrsebastian-prog/ai-email-auto-responder) | [🚀 Deploy](https://share.streamlit.io/deploy?repository=qurrrrsebastian-prog/ai-email-auto-responder) | AI reads email → analyzes intent → drafts Indonesian reply |
+| 18 | [Smart Water IoT Dashboard](https://github.com/qurrrrsebastian-prog/smart-water-iot-dashboard) | [🚀 Deploy](https://share.streamlit.io/deploy?repository=qurrrrsebastian-prog/smart-water-iot-dashboard) | Real-time Jakarta water monitoring with anomaly detection |
+| 19 | [Enterprise RAG with RBAC](https://github.com/qurrrrsebastian-prog/enterprise-rag-rbac) | [🚀 Deploy](https://share.streamlit.io/deploy?repository=qurrrrsebastian-prog/enterprise-rag-rbac) | Role-based AI document search (Admin/Staff/Intern) |
+| 20 | *AVA.Group Portfolio Website* | ⏳ Coming Soon | React + GitHub Pages / Hostinger |
 
 ---
 
