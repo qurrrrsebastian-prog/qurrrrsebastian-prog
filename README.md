@@ -10,7 +10,8 @@
 - 🎓 **18 y/o** | Semester 2 Sistem Informasi @ Universitas Budi Luhur
 - 💼 Currently handling digital marketing for **PT RKARI** and leading **AVA.Group**
 - 🏆 Completed **19 production-grade projects** in data analytics, AI/ML, and full-stack web apps — all open-source
-- 🔄 Currently on a **20-project sprint**: 19/20 done ✅ | 9 live demos deployed 🚀
+- 🔄 Currently on a **20-project sprint**: 19/20 done ✅ | **14 live demos deployed** 🚀
+- 🆕 **Latest**: Project #11–#19 upgraded to production-grade with SQLite, security layer & unique branding
 - 🌱 Currently learning: **Laravel, System Design, Cloud Deployment**
 
 ---
