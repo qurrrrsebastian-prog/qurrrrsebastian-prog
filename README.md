@@ -9,9 +9,9 @@
 
 - 🎓 **18 y/o** | Semester 2 Sistem Informasi @ Universitas Budi Luhur
 - 💼 Currently handling digital marketing for **PT RKARI** and leading **AVA.Group**
-- 🏆 Completed **19 production-grade projects** in data analytics, AI/ML, and full-stack web apps — all open-source
-- 🔄 Currently on a **20-project sprint**: 19/20 done ✅ | **19 live demos deployed** 🚀
-- 🆕 **Latest**: Project #11–#19 upgraded to production-grade with SQLite, security layer & unique branding
+- 🏆 Completed **20 production-grade projects** in data analytics, AI/ML, and full-stack web apps — all open-source
+- 🔄 **20-project sprint**: 20/20 done ✅ | **20 live demos deployed** 🚀
+- 🆕 **Latest**: **AVA.Group Website** launched — premium company profile with Next.js, Three.js 3D hero & Framer Motion animations
 - 🌱 Currently learning: **Laravel, System Design, Cloud Deployment**
 
 ---
@@ -21,16 +21,24 @@
 **Languages & Core:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frameworks & Libraries:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**3D & Animation:**  
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+`Framer Motion`
 
 **AI / ML:**  
 `LangChain` • `Groq API` • `ChromaDB` • `Llama 3.3 70B` • `Prophet` • `NLTK` • `TextBlob`
@@ -42,7 +50,7 @@
 
 ---
 
-### 📊 Portfolio Sprint (19/20 Projects)
+### 📊 Portfolio Sprint (20/20 Projects ✅)
 
 #### 📈 Phase 1: Data & Analytics — BINTANG 5 ⭐ (LIVE DEMOS)
 | # | Project | Live Demo | Description |
@@ -78,7 +86,11 @@
 | 17 | [AI Email Auto-Responder](https://github.com/qurrrrsebastian-prog/ai-email-auto-responder) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://qurrrrsebastian-prog-ai-email-auto-responder-app-uvopvk.streamlit.app) | AI reads email → analyzes intent → drafts Indonesian reply with sentiment chart |
 | 18 | [Smart Water IoT Dashboard](https://github.com/qurrrrsebastian-prog/smart-water-iot-dashboard) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://qurrrrsebastian-prog-smart-water-iot-dashboard-app-tzlyp0.streamlit.app) | Real-time Jakarta water monitoring with SQLite persistence + anomaly detection |
 | 19 | [Enterprise RAG with RBAC](https://github.com/qurrrrsebastian-prog/enterprise-rag-rbac) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://qurrrrsebastian-prog-enterprise-rag-rbac-app-21foi1.streamlit.app) | Role-based AI document search (Admin/Staff/Intern) with auth system |
-| 20 | *AVA.Group Portfolio Website* | ⏳ Coming Soon | React + Vite + Tailwind — the capstone project |
+
+#### 🚀 Phase 5: Capstone — THE WEBSITE 🌐 LIVE
+| # | Project | Live Demo | Description |
+|---|---------|-----------|-------------|
+| 20 | **[AVA.Group Website](https://github.com/qurrrrsebastian-prog/ava-group-website)** | [![Website](https://img.shields.io/badge/🔗_LIVE_DEMO-ava--group.vercel.app-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://ava-group.vercel.app) | **Premium company profile** — Next.js 14 + Three.js 3D interactive hero + Framer Motion animations + Tailwind CSS |
 
 ---
 
@@ -94,7 +106,7 @@
 ### 🤝 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/avatarputrasigit/)
-- 🌐 AVA.Group *(Website temporarily offline — rebuilding)*
+- 🌐 **[AVA.Group Website](https://ava-group.vercel.app)** — *Live now!*
 - 📧 putraavaar@gmail.com
 
 ---
