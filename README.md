@@ -9,8 +9,8 @@
 
 - 🎓 **18 y/o** | Semester 2 Sistem Informasi @ Universitas Budi Luhur
 - 💼 Currently handling digital marketing for **PT RKARI** and leading **AVA.Group**
-- 🏆 Completed **20 production-grade projects** in data analytics, AI/ML, and full-stack web apps — all open-source
-- 🔄 **20-project sprint**: 20/20 done ✅ | **20 live demos deployed** 🚀
+- 🏆 Completed **20+ production-grade projects** in data analytics, AI/ML, and full-stack web apps — all open-source
+- 🔄 **20-project sprint**: 20/20 done ✅ | **20+ live demos deployed** 🚀
 - 🆕 **Latest**: **AVA.Group Website** launched — premium company profile with Next.js, Three.js 3D hero & Framer Motion animations
 - 🌱 Currently learning: **Laravel, System Design, Cloud Deployment**
 
@@ -22,6 +22,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -29,6 +30,7 @@
 **Frameworks & Libraries:**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -91,6 +93,17 @@
 | # | Project | Live Demo | Description |
 |---|---------|-----------|-------------|
 | 20 | **[AVA.Group Website](https://github.com/qurrrrsebastian-prog/ava-group-website)** | [![Website](https://img.shields.io/badge/🔗_LIVE_DEMO-ava--group.vercel.app-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://ava-group.vercel.app) | **Premium company profile** — Next.js 14 + Three.js 3D interactive hero + Framer Motion animations + Tailwind CSS |
+
+---
+
+### 🎓 Project Kampus — Universitas Budi Luhur
+
+Project akademik yang dikembangkan untuk kebutuhan kampus:
+
+| # | Project | Repo | Tech Stack | Description |
+|---|---------|------|------------|-------------|
+| 1 | [Sistem Registrasi Seminar](https://github.com/qurrrrsebastian-prog/seminar-laravel) | `seminar-laravel` | Laravel 11, PHP, MySQL | Sistem registrasi seminar lengkap — admin panel, tiket QR, absensi, dan sertifikat otomatis |
+| 2 | [PMB Universitas Budi Luhur](https://github.com/qurrrrsebastian-prog/pmb-universitas-budi-luhur) | `pmb-universitas-budi-luhur` | Flask, Python, SQLite | Sistem Penerimaan Mahasiswa Baru — pendaftaran online, seleksi, dan manajemen calon mahasiswa |
 
 ---
 
