@@ -1,7 +1,5 @@
 # Hi 👋, I'm Avatar Putra Sigit
-### Head of Digital Operations @ PT RKARI | Digital Transformation Lead @ PT WBS | Founder & CEO @ AVA.Group
-
-**Full-Stack Developer (Laravel) · Data Analyst · AI/ML Engineer**
+### Full-Stack Developer (Laravel) & Data Analyst | AI/ML Engineer | Digital Marketing Strategist | Founder @AVA.Group
 
 ![Profile views](https://komarev.com/ghpvc/?username=qurrrrsebastian-prog&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -10,29 +8,20 @@
 ### 🚀 About Me
 
 - 🎓 **19 y/o** | Semester 3 Sistem Informasi @ Universitas Budi Luhur
-- 🏢 **Head of Digital Operations @ PT RKARI** — overseeing website, Google Ads, lead generation & all digital channels
-- 🏥 **Digital Transformation Lead @ PT WBS** — built production ERP (inventory, finance, accounting) replacing manual operations
-- 🚀 **Founder & CEO @ AVA.Group** — student-led tech collective, 20+ projects shipped
+- 🏢 Built and shipped a **production ERP system** now used daily by a real company — [details below](#-flagship-production-system)
+- 💼 Currently handling digital marketing for **PT RKARI** and leading **AVA.Group**
 - 🏆 **21+ production-grade projects** across full-stack web, data analytics, and AI/ML
-- 🆕 **Latest**: 🏥 **PT WBS Management System** — inventory & finance ERP with 5 role-based access, automated double-entry bookkeeping, PPN 11% compliance, and real-time stock tracking. In production, used daily by warehouse, sales, finance & owner teams.
+- 🔄 **20-project sprint**: 20/20 done ✅ | **20+ live demos deployed** 🚀
+- 🆕 **Latest**: **PT WBS Management System** — inventory & finance ERP with automated double-entry accounting
 - 🌱 Currently learning: **System Design, Cloud Deployment, DevOps**
 
 ---
 
-### 🏭 Production Systems in Active Use
+### 🏢 Flagship Production System
 
-*Not tutorial projects — real employees rely on these for daily operations.*
+> Not a tutorial project — a system real employees rely on for daily operations.
 
-| Company | System | Stack | Impact |
-|---|---|---|---|
-| **PT RKARI** | Digital Marketing & Lead Generation | Google Ads · Website · Analytics | Measurable lead flow built from zero |
-| **PT WBS** | ERP Inventory & Finance | Laravel 12 · Filament 4 · MySQL | Real-time stock & automated accounting across 5 role-based users |
-
----
-
-#### 🏗️ Deep Dive — Sistem Manajemen PT WBS
-
-Inventory & finance ERP built for **PT Weleri Bersaudara Semesta**, a medical supplies distributor — replacing manual, paper-based operations.
+**Sistem Manajemen PT WBS** — inventory & finance ERP built for **PT Weleri Bersaudara Semesta**, a medical supplies distributor.
 
 | | |
 |---|---|
@@ -61,6 +50,7 @@ Inventory & finance ERP built for **PT Weleri Bersaudara Semesta**, a medical su
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -109,7 +99,7 @@ Inventory & finance ERP built for **PT Weleri Bersaudara Semesta**, a medical su
 
 ### 📊 Portfolio Sprint (20/20 Projects ✅)
 
-#### 📈 Phase 1: Data & Analytics — ✅ COMPLETED ⭐
+#### 📈 Phase 1: Data & Analytics — BINTANG 5 ⭐ (LIVE DEMOS)
 | # | Project | Live Demo | Description |
 |---|---------|-----------|-------------|
 | 1 | [Jakarta Rental Dashboard](https://github.com/qurrrrsebastian-prog/jakarta-rental-dashboard) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jakarta-rental-dashboard-nvcburdxplphnnton9jb5d.streamlit.app) | Interactive apartment search with map, filters, 100+ listings |
@@ -118,7 +108,7 @@ Inventory & finance ERP built for **PT Weleri Bersaudara Semesta**, a medical su
 | 4 | [Website Traffic Forecaster](https://github.com/qurrrrsebastian-prog/website-traffic-forecast) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://website-traffic-forecast-s9xhbq8gv8uzwlst8uy6u7.streamlit.app) | Prophet-based 90-day traffic prediction with confidence intervals |
 | 5 | [Competitor Price Tracker](https://github.com/qurrrrsebastian-prog/rope-access-competitor-scraper) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rope-access-competitor-scraper-epqfhiddaohcrdol7eyndd.streamlit.app) | 50 competitor price monitoring with colored cards & security |
 
-#### 🌐 Phase 2: Web Apps & Tools — ✅ COMPLETED ⭐
+#### 🌐 Phase 2: Web Apps & Tools — BINTANG 5 ⭐ (LIVE DEMOS)
 | # | Project | Live Demo | Description |
 |---|---------|-----------|-------------|
 | 6 | [Google Ads ROI Calculator](https://github.com/qurrrrsebastian-prog/google-ads-roi-calculator) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-ads-roi-calculator-kxgcphzjq3wmbwzgebvfpe.streamlit.app) | Emerald Fortune theme — campaign ROI analysis with 50 dummy campaigns |
@@ -127,7 +117,7 @@ Inventory & finance ERP built for **PT Weleri Bersaudara Semesta**, a medical su
 | 9 | [Jakarta Water Quality](https://github.com/qurrrrsebastian-prog/jakarta-water-quality-analysis) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jakarta-water-quality-analysis-fhmprh3v3yfa5agtuwvzr8.streamlit.app) | Aqua Marine theme — 500 stations monitoring with folium map + anomaly detection |
 | 10 | [B2B Customer Segmentation](https://github.com/qurrrrsebastian-prog/b2b-customer-segmentation) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://b2b-customer-segmentation-fy42ma25sjq9hwcmvrwsh8.streamlit.app) | Slate Corporate theme — K-Means clustering with 4 segment downloads |
 
-#### 🤖 Phase 3: AI/ML Production — ✅ COMPLETED
+#### 🤖 Phase 3: AI/ML Production — ✅ LIVE DEPLOYED
 | # | Project | Live Demo | Description |
 |---|---------|-----------|-------------|
 | 11 | [RAG Document Q&A](https://github.com/qurrrrsebastian-prog/rag-document-qa) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://qurrrrsebastian-prog-rag-document-qa-app-m2sk1y.streamlit.app) | LangChain + ChromaDB + Groq for enterprise SOP search with source attribution |
@@ -136,7 +126,7 @@ Inventory & finance ERP built for **PT Weleri Bersaudara Semesta**, a medical su
 | 14 | [Lead Qualification Bot](https://github.com/qurrrrsebastian-prog/lead-qualification-bot) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://qurrrrsebastian-prog-lead-qualification-bot-app-ijiva5.streamlit.app) | AI scoring HOT/WARM/COLD with Kanban board + email template manager |
 | 15 | [Multi-Agent Research System](https://github.com/qurrrrsebastian-prog/multi-agent-research) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://qurrrrsebastian-prog-multi-agent-research-app-2shdkz.streamlit.app) | 3-agent pipeline: Researcher → Writer → Editor with visual tracker |
 
-#### 🔮 Phase 4: Agentic AI & Full-Stack — ✅ COMPLETED
+#### 🔮 Phase 4: Agentic AI & Full-Stack — ✅ LIVE DEPLOYED
 | # | Project | Live Demo | Description |
 |---|---------|-----------|-------------|
 | 16 | [Autonomous Job Research](https://github.com/qurrrrsebastian-prog/autonomous-web-research) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://qurrrrsebastian-prog-autonomous-web-research-app-ocdfsh.streamlit.app) | AI agent searches jobs across LinkedIn, JobStreet, Kalibrr, Glints |
@@ -144,7 +134,7 @@ Inventory & finance ERP built for **PT Weleri Bersaudara Semesta**, a medical su
 | 18 | [Smart Water IoT Dashboard](https://github.com/qurrrrsebastian-prog/smart-water-iot-dashboard) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://qurrrrsebastian-prog-smart-water-iot-dashboard-app-tzlyp0.streamlit.app) | Real-time Jakarta water monitoring with SQLite persistence + anomaly detection |
 | 19 | [Enterprise RAG with RBAC](https://github.com/qurrrrsebastian-prog/enterprise-rag-rbac) | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://qurrrrsebastian-prog-enterprise-rag-rbac-app-21foi1.streamlit.app) | Role-based AI document search (Admin/Staff/Intern) with auth system |
 
-#### 🚀 Phase 5: Capstone — THE WEBSITE ✅ COMPLETED 🌐
+#### 🚀 Phase 5: Capstone — THE WEBSITE 🌐 LIVE
 | # | Project | Live Demo | Description |
 |---|---------|-----------|-------------|
 | 20 | **[AVA.Group Website](https://github.com/qurrrrsebastian-prog/ava-group-website)** | [![Website](https://img.shields.io/badge/🔗_LIVE_DEMO-ava--group.vercel.app-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://ava-group.vercel.app) | **Premium company profile** — Next.js 14 + Three.js 3D interactive hero + Framer Motion animations + Tailwind CSS |
@@ -162,42 +152,16 @@ Project akademik yang dikembangkan untuk kebutuhan kampus:
 
 ---
 
-### 📈 GitHub Activity
+### 📈 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qurrrrsebastian-prog&show_icons=true&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qurrrrsebastian-prog&theme=tokyonight&hide_border=true)
 
----
-
-### 🤝 Open for Collaboration
-
-**I help businesses turn manual chaos into digital clarity.**
-
-Whether you're a startup figuring out your first system or an established company drowning in spreadsheets, I build production-grade solutions that real teams actually use — not prototypes that collect dust.
-
-**What I bring to the table:**
-
-| Area | What I Do | Example Result |
-|---|---|---|
-| 🏗️ **ERP Systems** | Inventory, finance, accounting automation | Replaced pen-and-paper with a real-time digital system |
-| 📈 **Digital Marketing Ops** | Google Ads strategy, lead gen, analytics | Measurable lead flow built from zero |
-| 🤖 **AI/ML Agents** | RAG, multi-agent research, automation | Autonomous job research + email response systems |
-| 📊 **Data Analytics** | Dashboards, forecasting, sentiment analysis | Interactive dashboards with live data feeds |
-
-**How we can work together:**
-
-- 🚀 **Build from scratch** — You have a problem, I design and ship the system
-- 🔧 **Fix what's broken** — Your current system slow or confusing? I optimize it
-- 📈 **Scale your digital ops** — Ready to grow? I build infrastructure that scales
-
-**My edge:** I don't just code — I understand business. I speak both *"tech"* and *"revenue,"* so the systems I build actually move your numbers.
-
-> **Let's build something that matters.**
->
-> 📧 putraavaar@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/avatarputrasigit/)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qurrrrsebastian-prog&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-### 📬 Connect With Me
+### 🤝 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/avatarputrasigit/)
 - 🌐 **[AVA.Group Website](https://ava-group.vercel.app)** — *Live now!*
@@ -205,6 +169,5 @@ Whether you're a startup figuring out your first system or an established compan
 
 ---
 
-> ### 💡 *"Jangan tunggu lulus untuk mulai. Bangun sambil belajar."*
->
-> ### *"Don't wait until graduation to start. Build while you learn."*
+*"Jangan tunggu lulus untuk mulai. Bangun sambil belajar."*  
+*"Don't wait until graduation to start. Build while you learn."*
