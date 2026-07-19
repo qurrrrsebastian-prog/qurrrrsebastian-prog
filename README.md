@@ -1,5 +1,5 @@
 # Hi 👋, I'm Avatar Putra Sigit
-### Data Analyst & Python Developer | AI/ML Engineer | Digital Marketing Strategist | Founder @AVA.Group
+### Full-Stack Developer (Laravel) & Data Analyst | AI/ML Engineer | Digital Marketing Strategist | Founder @AVA.Group
 
 ![Profile views](https://komarev.com/ghpvc/?username=qurrrrsebastian-prog&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -7,12 +7,39 @@
 
 ### 🚀 About Me
 
-- 🎓 **18 y/o** | Semester 2 Sistem Informasi @ Universitas Budi Luhur
+- 🎓 **19 y/o** | Semester 3 Sistem Informasi @ Universitas Budi Luhur
+- 🏢 Built and shipped a **production ERP system** now used daily by a real company — [details below](#-flagship-production-system)
 - 💼 Currently handling digital marketing for **PT RKARI** and leading **AVA.Group**
-- 🏆 Completed **20+ production-grade projects** in data analytics, AI/ML, and full-stack web apps — all open-source
+- 🏆 **21+ production-grade projects** across full-stack web, data analytics, and AI/ML
 - 🔄 **20-project sprint**: 20/20 done ✅ | **20+ live demos deployed** 🚀
-- 🆕 **Latest**: **AVA.Group Website** launched — premium company profile with Next.js, Three.js 3D hero & Framer Motion animations
-- 🌱 Currently learning: **Laravel, System Design, Cloud Deployment**
+- 🆕 **Latest**: **PT WBS Management System** — inventory & finance ERP with automated double-entry accounting
+- 🌱 Currently learning: **System Design, Cloud Deployment, DevOps**
+
+---
+
+### 🏢 Flagship Production System
+
+> Not a tutorial project — a system real employees rely on for daily operations.
+
+**Sistem Manajemen PT WBS** — inventory & finance ERP built for **PT Weleri Bersaudara Semesta**, a medical supplies distributor.
+
+| | |
+|---|---|
+| **Stack** | Laravel 12 · Filament 4 · PHP 8.2 · MySQL / MariaDB |
+| **Scale** | 16 tables · 5 user roles · 139 automated tests passing ✅ |
+| **Status** | 🟢 In production |
+
+**Engineering highlights**
+
+- 🔐 **Role-based access control** with *field-level* security — cost price and margin stay invisible to roles that shouldn't see them, including in CSV exports
+- 📊 **Automated double-entry bookkeeping** — every transaction posts a balanced journal; unbalanced entries are rejected at the service layer
+- 📦 **Moving-average COGS** with real-time stock, batch/lot tracking, and expiry monitoring
+- 🧾 **Indonesian tax compliance** — PPN 11% effective rate, DPP calculation, input/output VAT ledgers
+- 📄 **Three documents from one input** — invoice (with *terbilang*), delivery note, and receipt generated as PDF, eliminating re-typing errors
+- 📱 **PWA + fully responsive** — works on warehouse phones down to 375px
+- 🕵️ **Audit logging** — login/logout and data changes tracked with user, timestamp, and IP
+
+> 🔒 *Private repository — client-owned system. Happy to walk through the architecture on request.*
 
 ---
 
@@ -20,6 +47,7 @@
 
 **Languages & Core:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -27,28 +55,45 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frameworks & Libraries:**  
+**Backend & Frameworks:**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+`Eloquent ORM` • `Livewire` • `Blade` • `PHPUnit` • `Composer`
+
+**Frontend:**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+`Responsive Design` • `PWA`
+
+**Architecture & Security:**  
+`RBAC` • `Field-Level Security` • `Service Layer Pattern` • `Audit Logging` • `Automated Testing` • `Database Transactions`
+
+**Domain — Accounting & Tax:**  
+`Double-Entry Bookkeeping` • `Moving-Average COGS` • `PPN 11% (Indonesian VAT)` • `Financial Statements` • `General Ledger` • `AR/AP Management`
+
+**Data & Analytics:**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+`Prophet` • `Matplotlib` • `Plotly`
+
+**AI / ML:**  
+`LangChain` • `Groq API` • `ChromaDB` • `Llama 3.3 70B` • `NLTK` • `TextBlob` • `RAG` • `Multi-Agent Systems`
 
 **3D & Animation:**  
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 `Framer Motion`
 
-**AI / ML:**  
-`LangChain` • `Groq API` • `ChromaDB` • `Llama 3.3 70B` • `Prophet` • `NLTK` • `TextBlob`
-
-**Tools:**  
+**DevOps & Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-`Google Ads` • `Claude Code` • `BeautifulSoup` • `SQLite`
+`SSH` • `Deployment` • `Claude Code` • `Google Ads` • `BeautifulSoup` • `SQLite`
 
 ---
 
