@@ -1,11 +1,33 @@
-# Hi 👋, I'm Avatar Putra Sigit
-### Head of Digital Operations @ PT RKARI | Digital Transformation Lead @ PT WBS | Founder & CEO @ AVA.Group
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qurrrrsebastian-prog/qurrrrsebastian-prog/main/assets/ava-group-logo-white.png">
+    <img src="https://raw.githubusercontent.com/qurrrrsebastian-prog/qurrrrsebastian-prog/main/assets/ava-group-logo-dark.png" alt="AVA.Group" height="52" />
+  </picture>
+</p>
 
-**Full-Stack Developer (Laravel) · Data Analyst · AI/ML Engineer**
+<h1 align="center">Hi 👋, I'm Avatar Putra Sigit</h1>
 
-![Profile views](https://komarev.com/ghpvc/?username=qurrrrsebastian-prog&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <a href="https://www.linkedin.com/in/avatarputrasigit/">
+    <img src="https://img.shields.io/badge/Head%20of%20Digital%20Operations-PT%20RKARI-FF6B35?style=for-the-badge&logoColor=white" alt="Head of Digital Operations at PT RKARI" />
+  </a>
+  <a href="https://www.linkedin.com/in/avatarputrasigit/">
+    <img src="https://img.shields.io/badge/Digital%20Transformation%20Lead-PT%20WBS-22D3EE?style=for-the-badge&logoColor=white" alt="Digital Transformation Lead at PT WBS" />
+  </a>
+  <a href="https://ava-group.vercel.app">
+    <img src="https://img.shields.io/badge/Founder%20%26%20CEO-AVA.Group-1E3A5F?style=for-the-badge&logoColor=white" alt="Founder and CEO of AVA.Group" />
+  </a>
+</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+Production+ERP+%26+AI+Systems;19+y%2Fo+Full-Stack+Developer+%28Laravel%29;Founder+%26+CEO+%40+AVA.Group" alt="Building Production ERP and AI Systems" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=qurrrrsebastian-prog&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">✦ ✦ ✦</p>
 
 ### 🚀 About Me
 
@@ -17,22 +39,29 @@
 - 🆕 **Latest**: 🏥 **PT WBS Management System** — inventory & finance ERP with 5 role-based access, automated double-entry bookkeeping, PPN 11% compliance, and real-time stock tracking. In production, used daily by warehouse, sales, finance & owner teams.
 - 🌱 Currently learning: **System Design, Cloud Deployment, DevOps**
 
----
+<p align="center">✦ ✦ ✦</p>
 
 ### 🏭 Production Systems in Active Use
 
-*Not tutorial projects — real employees rely on these for daily operations.*
+<p align="center"><em>Not tutorial projects — real employees rely on these for daily operations.</em></p>
 
-| Company | System | Stack | Impact |
-|---|---|---|---|
-| **PT RKARI** | Digital Marketing & Lead Generation | Google Ads · Website · Analytics | Measurable lead flow built from zero |
-| **PT WBS** | ERP Inventory & Finance | Laravel 12 · Filament 4 · MySQL | Real-time stock & automated accounting across 5 role-based users |
+| | Company | System | Stack | Impact |
+|:---:|:---|:---|:---|:---|
+| <img src="https://raw.githubusercontent.com/qurrrrsebastian-prog/qurrrrsebastian-prog/main/assets/pt-rkari-logo.png" height="34" alt="PT RKARI" /> | **PT RKARI** | Digital Marketing & Lead Generation | Google Ads · Website · Analytics | Measurable lead flow built from zero |
+| <img src="https://raw.githubusercontent.com/qurrrrsebastian-prog/qurrrrsebastian-prog/main/assets/pt-wbs-logo.png" height="34" alt="PT WBS" /> | **PT WBS** | ERP Inventory & Finance | Laravel 12 · Filament 4 · MySQL | Real-time stock & automated accounting across 5 role-based users |
 
----
+<p align="center">✦ ✦ ✦</p>
 
-#### 🏗️ Deep Dive — Sistem Manajemen PT WBS
+### 🏗️ Deep Dive — Sistem Manajemen PT WBS
 
-Inventory & finance ERP built for **PT Weleri Bersaudara Semesta**, a medical supplies distributor — replacing manual, paper-based operations.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/qurrrrsebastian-prog/qurrrrsebastian-prog/main/assets/pt-wbs-logo.png" height="56" alt="PT WBS" />
+</p>
+
+<p align="center">
+  Inventory &amp; finance ERP built for <strong>PT Weleri Bersaudara Semesta</strong>,<br />
+  a medical supplies distributor — replacing manual, paper-based operations.
+</p>
 
 | | |
 |---|---|
@@ -52,9 +81,24 @@ Inventory & finance ERP built for **PT Weleri Bersaudara Semesta**, a medical su
 
 > 🔒 *Private repository — client-owned system. Happy to walk through the architecture on request.*
 
----
+<p align="center">✦ ✦ ✦</p>
 
-### 🛠️ Tech Stack
+### 🛠️ Toolkit
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,js,ts,react,nextjs,tailwind,mysql,sqlite,flask,git,github,vercel,vscode&perline=8" alt="Toolkit icons" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=filament&logoColor=black" alt="Filament" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+</p>
 
 **Languages & Core:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -105,7 +149,7 @@ Inventory & finance ERP built for **PT Weleri Bersaudara Semesta**, a medical su
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 `SSH` • `Deployment` • `Claude Code` • `Google Ads` • `BeautifulSoup` • `SQLite`
 
----
+<p align="center">✦ ✦ ✦</p>
 
 ### 📊 Portfolio Sprint (20/20 Projects ✅)
 
@@ -149,7 +193,7 @@ Inventory & finance ERP built for **PT Weleri Bersaudara Semesta**, a medical su
 |---|---------|-----------|-------------|
 | 20 | **[AVA.Group Website](https://github.com/qurrrrsebastian-prog/ava-group-website)** | [![Website](https://img.shields.io/badge/🔗_LIVE_DEMO-ava--group.vercel.app-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://ava-group.vercel.app) | **Premium company profile** — Next.js 14 + Three.js 3D interactive hero + Framer Motion animations + Tailwind CSS |
 
----
+<p align="center">✦ ✦ ✦</p>
 
 ### 🎓 Project Kampus — Universitas Budi Luhur
 
@@ -160,15 +204,24 @@ Project akademik yang dikembangkan untuk kebutuhan kampus:
 | 1 | [Sistem Registrasi Seminar](https://github.com/qurrrrsebastian-prog/seminar-laravel) | `seminar-laravel` | Laravel 11, PHP, MySQL | Sistem registrasi seminar lengkap — admin panel, tiket QR, absensi, dan sertifikat otomatis |
 | 2 | [PMB Universitas Budi Luhur](https://github.com/qurrrrsebastian-prog/pmb-universitas-budi-luhur) | `pmb-universitas-budi-luhur` | Flask, Python, SQLite | Sistem Penerimaan Mahasiswa Baru — pendaftaran online, seleksi, dan manajemen calon mahasiswa |
 
----
+<p align="center">✦ ✦ ✦</p>
 
 ### 📈 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qurrrrsebastian-prog&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurrrrsebastian-prog&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</p>
 
----
+<p align="center">✦ ✦ ✦</p>
 
 ### 🤝 Open for Collaboration
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qurrrrsebastian-prog/qurrrrsebastian-prog/main/assets/ava-group-logo-white.png">
+    <img src="https://raw.githubusercontent.com/qurrrrsebastian-prog/qurrrrsebastian-prog/main/assets/ava-group-logo-dark.png" alt="AVA.Group" height="40" />
+  </picture>
+</p>
 
 **I help businesses turn manual chaos into digital clarity.**
 
@@ -195,16 +248,41 @@ Whether you're a startup figuring out your first system or an established compan
 >
 > 📧 putraavaar@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/avatarputrasigit/)
 
+<p align="center">✦ ✦ ✦</p>
+
+### 📬 Find Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/avatarputrasigit/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:putraavaar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://ava-group.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/qurrrrsebastian-prog">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">✦ ✦ ✦</p>
+
+<p align="center"><em>Systems I've Built For</em></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/qurrrrsebastian-prog/qurrrrsebastian-prog/main/assets/pt-rkari-logo.png" height="38" alt="PT RKARI" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qurrrrsebastian-prog/qurrrrsebastian-prog/main/assets/ava-group-logo-white.png">
+    <img src="https://raw.githubusercontent.com/qurrrrsebastian-prog/qurrrrsebastian-prog/main/assets/ava-group-logo-dark.png" alt="AVA.Group" height="30" />
+  </picture>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/qurrrrsebastian-prog/qurrrrsebastian-prog/main/assets/pt-wbs-logo.png" height="38" alt="PT WBS" />
+</p>
+
 ---
 
-### 📬 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/avatarputrasigit/)
-- 🌐 **[AVA.Group Website](https://ava-group.vercel.app)** — *Live now!*
-- 📧 putraavaar@gmail.com
-
----
-
-> ### 💡 *"Jangan tunggu lulus untuk mulai. Bangun sambil belajar."*
->
-> ### *"Don't wait until graduation to start. Build while you learn."*
+<h3 align="center">💡 <em>"Jangan tunggu lulus untuk mulai. Bangun sambil belajar."</em></h3>
+<h3 align="center"><em>"Don't wait until graduation to start. Build while you learn."</em></h3>
