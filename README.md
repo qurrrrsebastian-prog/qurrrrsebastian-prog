@@ -31,7 +31,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **19 y/o** | Semester 3 Sistem Informasi @ Universitas Budi Luhur
+- 🎓 **19 y/o** | 3rd-semester Information Systems student @ Universitas Budi Luhur
 - 🏢 **Head of Digital Operations @ PT RKARI** — overseeing website, Google Ads, lead generation & all digital channels
 - 🏥 **Digital Transformation Lead @ PT WBS** — built production ERP (inventory, finance, accounting) replacing manual operations
 - 🚀 **Founder & CEO @ AVA.Group** — student-led tech collective, 20+ projects shipped
