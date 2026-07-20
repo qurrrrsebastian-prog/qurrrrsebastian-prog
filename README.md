@@ -79,7 +79,13 @@
 - 📱 **PWA + fully responsive** — works on warehouse phones down to 375px
 - 🕵️ **Audit logging** — login/logout and data changes tracked with user, timestamp, and IP
 
-> 🔒 *Private repository — client-owned system. Happy to walk through the architecture on request.*
+<p align="center">
+  <a href="https://github.com/qurrrrsebastian-prog/wbs-erp-case-study">
+    <img src="https://img.shields.io/badge/📖_Read_the_full_case_study-1E3A5F?style=for-the-badge&logoColor=white" alt="Read the full case study" />
+  </a>
+</p>
+
+> 🔒 *The system itself is a private, client-owned repository. The case study above covers the architecture, domain logic, and lessons learned — without any client data.*
 
 <p align="center">✦ ✦ ✦</p>
 
@@ -153,6 +159,16 @@
 
 ### 📊 Portfolio Sprint (20/20 Projects ✅)
 
+<p align="center">
+  20 projects across data analytics, web apps, AI/ML, and agentic systems —
+  <strong>every one shipped with a live demo</strong>.
+</p>
+
+<details>
+<summary><b>▶ &nbsp;Browse all 20 projects</b> &nbsp;·&nbsp; <sub>5 phases, click to expand</sub></summary>
+
+<br />
+
 #### 📈 Phase 1: Data & Analytics — ✅ COMPLETED ⭐
 | # | Project | Live Demo | Description |
 |---|---------|-----------|-------------|
@@ -192,6 +208,8 @@
 | # | Project | Live Demo | Description |
 |---|---------|-----------|-------------|
 | 20 | **[AVA.Group Website](https://github.com/qurrrrsebastian-prog/ava-group-website)** | [![Website](https://img.shields.io/badge/🔗_LIVE_DEMO-ava--group.vercel.app-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://ava-group.vercel.app) | **Premium company profile** — Next.js 14 + Three.js 3D interactive hero + Framer Motion animations + Tailwind CSS |
+
+</details>
 
 <p align="center">✦ ✦ ✦</p>
 
