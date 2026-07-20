@@ -52,7 +52,7 @@
 
 <p align="center">✦ ✦ ✦</p>
 
-### 🏗️ Deep Dive — Sistem Manajemen PT WBS
+### 🏗️ Deep Dive — PT WBS Management System
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/qurrrrsebastian-prog/qurrrrsebastian-prog/main/assets/pt-wbs-logo.png" height="56" alt="PT WBS" />
@@ -213,14 +213,14 @@
 
 <p align="center">✦ ✦ ✦</p>
 
-### 🎓 Project Kampus — Universitas Budi Luhur
+### 🎓 Campus Projects — Universitas Budi Luhur
 
-Project akademik yang dikembangkan untuk kebutuhan kampus:
+Academic systems built for real use on campus:
 
 | # | Project | Repo | Tech Stack | Description |
 |---|---------|------|------------|-------------|
-| 1 | [Sistem Registrasi Seminar](https://github.com/qurrrrsebastian-prog/seminar-laravel) | `seminar-laravel` | Laravel 11, PHP, MySQL | Sistem registrasi seminar lengkap — admin panel, tiket QR, absensi, dan sertifikat otomatis |
-| 2 | [PMB Universitas Budi Luhur](https://github.com/qurrrrsebastian-prog/pmb-universitas-budi-luhur) | `pmb-universitas-budi-luhur` | Flask, Python, SQLite | Sistem Penerimaan Mahasiswa Baru — pendaftaran online, seleksi, dan manajemen calon mahasiswa |
+| 1 | [Seminar Registration System](https://github.com/qurrrrsebastian-prog/seminar-laravel) | `seminar-laravel` | Laravel 11, PHP, MySQL | Full registration platform — admin panel, QR tickets, attendance tracking, and automated certificates |
+| 2 | [Student Admission System (PMB)](https://github.com/qurrrrsebastian-prog/pmb-universitas-budi-luhur) | `pmb-universitas-budi-luhur` | Flask, Python, SQLite | New student admissions — online registration, selection process, and applicant management |
 
 <p align="center">✦ ✦ ✦</p>
 
